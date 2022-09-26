@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "corgi-chatbot", "corgi-chatbot\corgi-chatbot.csproj", "{35CA200C-DB6C-4D9C-A363-C9F73E2D4F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CA200C-DB6C-4D9C-A363-C9F73E2D4F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CA200C-DB6C-4D9C-A363-C9F73E2D4F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CA200C-DB6C-4D9C-A363-C9F73E2D4F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CA200C-DB6C-4D9C-A363-C9F73E2D4F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A169834B-9C9C-4DCA-A708-5EF67D979BF7}
+	EndGlobalSection
+EndGlobal
